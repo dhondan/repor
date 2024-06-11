@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:14:54.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="GDVLhyCzl1y6Ov37Z0ZB" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T20:09:24.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zzh-14ag98xb0FQq_Q3W" version="24.5.3" type="github">
   <diagram name="Página-1" id="bbJJNjSkhzLDl82Bf0Tp">
-    <mxGraphModel dx="1333" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="910" height="910" as="geometry" />
+        </mxCell>
         <mxCell id="fFdtwL9cvn40MQRhQIDq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-3" target="fFdtwL9cvn40MQRhQIDq-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -50,7 +53,7 @@
           <mxGeometry x="494" y="215" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fFdtwL9cvn40MQRhQIDq-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="444" y="325" width="300" height="300" as="geometry" />
+          <mxGeometry x="444" y="325" width="380" height="750" as="geometry" />
         </mxCell>
         <mxCell id="fFdtwL9cvn40MQRhQIDq-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="fFdtwL9cvn40MQRhQIDq-16">
           <mxGeometry width="300" height="300" as="geometry" />
@@ -114,6 +117,85 @@
         </mxCell>
         <mxCell id="fFdtwL9cvn40MQRhQIDq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fFdtwL9cvn40MQRhQIDq-57" source="fFdtwL9cvn40MQRhQIDq-46" target="fFdtwL9cvn40MQRhQIDq-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-61" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Propriedades (elementos obrigatórios)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="105" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-62" value="Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-63" value="NPC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-66" target="fFdtwL9cvn40MQRhQIDq-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="650" />
+              <mxPoint x="1500" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-66" target="fFdtwL9cvn40MQRhQIDq-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-66" target="fFdtwL9cvn40MQRhQIDq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-66" value="Controlado pelo mouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-68" value="Player se tornara maior&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-69" value="Não ficará mais forte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-72" value="Se não tocar na comida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="650" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-75" value="Se tocar na comida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="540" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-78" target="fFdtwL9cvn40MQRhQIDq-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-78" value="Verifica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-80" target="fFdtwL9cvn40MQRhQIDq-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-80" target="fFdtwL9cvn40MQRhQIDq-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-80" value="O player é mais forte que o npc?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="215" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-87" value="GamerOver" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="232.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-89" value="Não é mais forte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="248" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-91" value="Se o Player tocar em um NPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFdtwL9cvn40MQRhQIDq-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1730" y="340" />
+              <mxPoint x="1620" y="340" />
+              <mxPoint x="1620" y="440" />
+              <mxPoint x="1420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-92" value="O player pode continuar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="242.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFdtwL9cvn40MQRhQIDq-90" value="O player é mais forte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="242.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
